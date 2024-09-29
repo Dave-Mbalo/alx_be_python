@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta
 
-def display_current_date():
+def display_current_datetime():
 
     current_date = datetime.now()
     current_date_format = current_date
