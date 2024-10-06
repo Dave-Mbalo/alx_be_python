@@ -20,3 +20,4 @@ class SimpleCalculator:
         if b == 0:
             return None
         return a / b
+
